@@ -9,7 +9,7 @@ img {
 
 .text{
     font-family: 'Libre Baskerville', serif;
-    font-size: 4em;
+    font-size: 1.5em;
 }
 
 #main{
@@ -26,5 +26,5 @@ img {
 
 h1 {
     text-transform: uppercase;
-    font-size: 6em;
+    font-size: 1em;
 }
